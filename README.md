@@ -10,10 +10,6 @@ Importance;
 Software engineering is essential for creating reliable, efficient, and scalable software. It ensures systematic development, high-quality products, and effective problem-solving. It plays a key role in security, resource management, and innovation, supporting industries like healthcare, finance, and entertainment. With a focus on teamwork, user needs, and continuous improvement, software engineering drives business success, economic growth, and technological advancements.
 
 
-
-
-
-
 Identify and describe at least three key milestones in the evolution of software engineering.
 High-Level Programming Languages: Introduction of Fortran (1957) - Made programming more accessible.
 Object-Oriented Programming: Development of Smalltalk (1970s) - Improved code modularity and reusability.
